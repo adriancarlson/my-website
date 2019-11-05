@@ -2,7 +2,4 @@
 
 This is a really awesome website
 
-changes for remote branch example
-
-
-changes for local branch updatereadme
+updates made on master on github before rebase
